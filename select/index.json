@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ストーリー",
+  "base_artist": "大石昌良",
+  "createdAt": "2025-12-28T01:16:10.885088Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ストーリー",
+      "artist": "スガシカオ",
+      "has_synced": true,
+      "path": "select/01_ストーリー_スガシカオ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ムーンライト ストーリー",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": false,
+      "path": "select/02_ムーンライト_ストーリー_PRINCESS_PRINCESS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ストーリー - Story",
+      "artist": "Che'Nelle",
+      "has_synced": false,
+      "path": "select/03_ストーリー_-_Story_Che'Nelle.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "クロノ・ストーリー",
+      "artist": "mothy",
+      "has_synced": true,
+      "path": "select/04_クロノ・ストーリー_mothy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "クロノ・ストーリー",
+      "artist": "mothy_悪ノP",
+      "has_synced": false,
+      "path": "select/05_クロノ・ストーリー_mothy_悪ノP.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マジカル・ストーリー (OFF VOCAL)",
+      "artist": "GRANRODEO",
+      "has_synced": true,
+      "path": "select/06_マジカル・ストーリー_(OFF_VOCAL)_GRANRODEO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "マジカル・ストーリー",
+      "artist": "GRANRODEO",
+      "has_synced": true,
+      "path": "select/07_マジカル・ストーリー_GRANRODEO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ストーリー",
+      "artist": "Che'Nelle",
+      "has_synced": false,
+      "path": "select/08_ストーリー_Che'Nelle.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "クリスマス・ストーリー",
+      "artist": "Amatsuki",
+      "has_synced": true,
+      "path": "select/09_クリスマス・ストーリー_Amatsuki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Story Of Us (US Version) = ザ・ストーリー・オブ・アス (US Version)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/10_The_Story_Of_Us_(US_Version)_=_ザ・ストーリー・オブ・アス_(US_Version)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Story = ラヴ・ストーリー",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/11_Love_Story_=_ラヴ・ストーリー_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Story = ラヴ・ストーリー",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/12_Love_Story_=_ラヴ・ストーリー_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ストーリー",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/13_ストーリー_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "涙のびんづめ(ミニ・ストーリー「愛色メッセージ」)",
+      "artist": "小泉今日子",
+      "has_synced": true,
+      "path": "select/14_涙のびんづめ(ミニ・ストーリー「愛色メッセージ」)_小泉今日子.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "クロノ・ストーリー",
+      "artist": "EXIT TUNES",
+      "has_synced": false,
+      "path": "select/15_クロノ・ストーリー_EXIT_TUNES.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ストーリー",
+      "artist": "大石昌良",
+      "has_synced": false,
+      "path": "select/pl_01_ストーリー_大石昌良.txt"
+    }
+  ]
+}
